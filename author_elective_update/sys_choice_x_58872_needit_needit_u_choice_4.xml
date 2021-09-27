@@ -20,6 +20,26 @@
             <dependent_value/>
             <element>u_choice_4</element>
             <hint/>
+            <inactive>true</inactive>
+            <label>Developer 1</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-10 15:06:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ac759812f62301050b228a62799b65e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-27 16:28:15</sys_updated_on>
+            <value>developer1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_4</element>
+            <hint/>
             <inactive>false</inactive>
             <label>Human Resources 1</label>
             <language>en</language>
@@ -150,31 +170,31 @@
             <sys_created_on>2021-09-10 15:06:21</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5ac759812f62301050b228a62799b65e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>12c759812f62301050b228a62799b661</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-09-10 15:06:21</sys_updated_on>
-            <value>developer1</value>
+            <sys_updated_on>2021-09-27 16:28:15</sys_updated_on>
+            <value>developer2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_choice_4</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Developer 1</label>
+            <label>Other</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
-            <sequence>7</sequence>
+            <sequence>8</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-09-10 15:06:21</sys_created_on>
+            <sys_created_on>2021-09-27 16:28:15</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>12c759812f62301050b228a62799b661</sys_id>
+            <sys_id>b38d4da607b23010edb0f0118c1ed0cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-09-10 15:06:21</sys_updated_on>
-            <value>developer2</value>
+            <sys_updated_on>2021-09-27 16:28:15</sys_updated_on>
+            <value>other</value>
         </sys_choice>
     </sys_choice>
 </record_update>
